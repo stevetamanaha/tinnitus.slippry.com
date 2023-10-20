@@ -24,7 +24,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Amid the harmonious symphony of life, an unwelcome intruder can disrupt our peace – tinnitus. The persistent ringing or buzzing in the ears can be a source of immense discomfort, affecting our overall well-being. But there's hope on the horizon.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tinnitus.slippry.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tinnitus.slippry.com/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'assets/images/favicon.ico'
 logo: 'assets/images/cortexi-logo.png'
 twitter_username: jekyllrb
